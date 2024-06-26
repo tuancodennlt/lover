@@ -1,0 +1,38 @@
+h1 {
+    color:rgb(229, 31, 166);
+}
+
+.box {
+    margin: 0px 300px;
+    background-color: rgb(255, 255, 255);
+}
+
+.picture{
+    margin: 0px 500px;
+}
+
+.box3 {
+    margin: 0px 425px;
+}
+
+.login{
+    margin: 0px 450px;
+}
+
+h3{
+    margin: 0px 450px;
+}
+
+body{
+    background-color:rgb(219, 100, 163);
+}
+
+a{
+    margin: 0px 450px;
+    font-size: 30px;
+}
+
+.description{
+    background-color: white;
+    
+}
